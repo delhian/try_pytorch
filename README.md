@@ -1,1 +1,2 @@
-# try_pytorch according to PyTorch Tutorials - Complete Beginner Course 
+try_pytorch according to 
+PyTorch Tutorials - Complete Beginner Course 
